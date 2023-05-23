@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project is the result of a Kaggle competition : https://www.kaggle.com/competitions/aresd-2023-covidchallenge/overview
 
 Context
@@ -25,3 +26,6 @@ DEAD : fatal covid
 
 
 
+=======
+#README
+>>>>>>> 4a012efbaa56d8b6801e4fc737752cedc62402da
